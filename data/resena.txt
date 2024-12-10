@@ -1,0 +1,152 @@
+Introducción
+Día 3 – Tras dos días dedicados en vano a escudriñar el océano, una pequeña mancha en el horizonte, apenas visible entre la espuma del oleaje, nos llenó de esperanza. Según nos acercamos, una bandada de pájaros de un escarlata brillante se acercó al barco, gorjeando y silbando como si nos diera la bienvenida. Tras consultar las cartas de navegación, el oficial nos aseguró que esa isla no aparecía en ninguna de ellas. Sus palabras venían a apoyar la tesis que todos compartíamos en secreto; esas mesetas escarpadas, esa jungla esmeralda… ¡podría ser Arnak!
+Así se nos presenta Las Ruinas Perdidas de Arnak, diseñado por el matrimonio formado por Michal «Elwen» Štach y Michaela “Mín” Štachová, siendo este su primera obra. Fue publicado por primera vez en 2020 por Czech Games Edition (CGE) en una versión en inglés. De las ilustraciones se encargan Jiří Kůs, Ondřej Hrdina, Jakub Politzer, František Sedláček y Milan Vavroň.
+
+Se encuentra publicado en español por Devir (la dependencia del idioma no es muy elevada, aunque algunas cartas contienen texto en sus efectos). Permite partidas de 1 a 4 jugadores, con una edad mínima sugerida de 12 años y una duración aproximada de entre 30 y 120 minutos. El precio de venta al público es de 59,99€. Para esta reseña se ha utilizado una copia de la versión en español de Devir, que la propia editorial nos ha cedido amablemente.
+Contenido
+Dentro de una caja de cartón de dos piezas (tapa y fondo), de dimensiones 37,5×27,5×7,5 cm (tamaño de caja rectangular grande como Through the Ages), nos encontramos con los siguientes elementos:
+
+Tablero Principal a Doble Cara (de cartón)
+Tablero de Doble Cara para la Reserva (de cartón)
+12 Losetas de Ayudante (de cartón)
+15 Losetas de Guardián (de cartón)
+10 Losetas de Yacimiento de Nivel I (de cartón)
+6 Losetas de Yacimiento de Nivel II (de cartón)
+15 Tarjetas de Acción del Rival del Modo en Solitario (de cartón)
+Bloc de Hojas de Puntuación (de papel)
+Vara Lunar (de cartón)
+Loseta de Jugador Inicial (de cartón)
+16 Fichas de Inscripciones (de cartón)
+8 Peones de Arqueólogos (2 en cada color) (de madera)
+4 Fichas de Cuaderno (1 en cada color) (de madera)
+4 Fichas de Lupa (1 en cada color) (de madera)
+12 Fichas de Punta de Flecha (de plástico)
+9 Fichas de Gema (de plástico)
+10 Fichas de Multiplicación y Miedo (de cartón)
+18 Losetas de Recompensa a la Investigación (de cartón)
+5 Losetas de Anulación (de cartón)
+27 Fichas de Moneda (de cartón)
+16 Losetas de Ídolo (de cartón)
+24 Losetas de Templo (de cartón)
+27 Fichas de Brújula (de cartón)
+4 Tablillas Individuales de Doble Cara (de cartón)
+16 Cartas Básicas (4 de Cada Color)
+94 Cartas (63,5×88 mm.):
+19 Cartas de Miedo
+40 Cartas de Objeto
+35 Cartas de Artefacto
+Reglamento
+Las Ruinas Perdidas de Arnak es un juego con mecánicas principales de colocación de trabajadores y construcción de mazos mediante las cuales los jugadores intentarán progresar en unos tracks de investigación recopilando los recursos necesarios mediante las diversas acciones disponibles, principalmente enviando a los exploradores a yacimientos, obteniendo cartas o ejecutando los efectos de las cartas de la mano. Los yacimientos estarán estructurados en tres niveles, siendo necesario emplear cartas que muestren el transporte necesario para llegar a ellas, así como emplear brújulas (uno de los recursos) para descubrir nuevos lugares, aunque ello implicará enfrentarse a criaturas peligrosas que proporcionarán puntos de victoria si se derrotan, o cartas negativas si el explorador finaliza el turno sin eliminarlo. La partida se desarrolla a lo largo de cinco rondas, al final de las cuales se realizará una evaluación final según el progreso en el track, los ídolos acumulados y los puntos en las cartas obtenidas.
+
+
+Conceptos Básicos
+Comencemos con el Tablero Principal. Este muestra cuatro zonas diferenciadas. La zona superior tiene el suministro de cartas, con cinco espacios que, a su vez, también funciona como track de progreso de la partida, donde la vara lunar irá marcando las rondas que restan y dividirá el suministro en dos mitades, una para cada tipo de carta. En los espacios horizontales superiores se colocarán los mazos de robo y las pilas de descarte. En la banda derecha encontramos el track de investigación, compuesto por una serie de niveles con una recompensa según qué marcador de los dos que dispone cada jugador lo alcance. A su vez los niveles muestran de 1 a 3 espacios que se conectan con uno o varios del siguiente nivel mediante un coste. Al final del track encontramos el templo, donde se colocarán las losetas de templo formando una pirámide. En la banda inferior encontramos el tablero de suministro donde también tendremos tres espacios para colocar las losetas de ayudante. Finalmente, ocupando la mayor parte del tablero tenemos los yacimientos, estructurados en tres niveles: inicial, primer nivel y segundo nivel. Cada espacio de yacimiento muestra unos espacios de acción junto a unos iconos de transporte que el jugador debe emplear para poder ocupar. Los espacios iniciales ya estarán disponibles desde el comienzo de la partida, mientras que los espacios de nivel I y II deberán ser descubiertos por los jugadores empleando uno de los recursos disponibles.
+
+Existen cinco tipos de Recursos que los jugadores podrán obtener durante la partida. Por un lado, los recursos básicos, que son las monedas (su uso principal será para comprar objetos) y las brújulas (que se utilizarán para obtener artefactos o descubrir nuevos yacimientos), aunque también se utilizarán para pagar ciertos costes de investigación o derrotar guardianes. Por otro lado tenemos los recursos valiosos, esto es, tablillas, puntas de flecha y gemas. Estos recursos se utilizarán fundamental para progresar en el track de investigación, aunque también servirán para derrotar a guardianes y, en el caso de las tablillas, para volver a activar artefactos.
+Recursos
+Cuando un jugador descubre un nuevo yacimiento deberá robar una Loseta de Yacimiento del nivel correspondiente y colocarla en el espacio de acción, ejecutando de forma directa por primera vez. Una vez descubierto el yacimiento, este podrá ser visitado por cualquier jugador sin tener que asumir los costes de su descubrimiento, simplemente los de transporte.
+
+Losetas de Yacimientos
+Los jugadores tendrán que luchar contra Guardianes que aparecerán cada vez que un yacimiento sea descubierto. Estos guardianes exigen unos recursos para ser derrotados, proporcionando puntos de victoria al final de la partida, así como una acción gratuita que podrá resolverse en cualquier turno posterior.
+
+Guardianes
+Cada vez que un jugador descubra un yacimiento también recibirá una o dos fichas de Ídolo (según el nivel del yacimiento). Estas fichas de ídolo ofrecen un beneficio inmediato, así como puntos de victoria al final de la partida. Adicionalmente, las fichas de ídolo podrán ser utilizadas para ejecutar acciones gratuitas durante el turno del jugador.
+
+Ídolos
+Para poder ocupar un espacio en un yacimiento cada jugador dispondrá de dos Exploradores. Estos peones ocuparán los espacios de acción bloqueándolos temporalmente mientras permanezcan sobre ellos. Para poder colocar un explorador en un yacimiento el jugador deberá asumir el coste de transporte, indicado en el tablero principal.
+
+Exploradores
+El eje fundamental de la partida será el track de investigación por el que progresarán las Fichas de Investigación. Como acción, los jugadores podrán hacer progresar uno de estos marcadores un nivel hacia arriba respetando las conexiones entre las casillas y asumiendo el peaje indicado en la conexión. Al hacerlo, el jugador obtendrá un beneficio (o una penalización). La lupa podrá llegar al templo, momento en el que se habilitará su exploración, siendo el único nivel en el que importa el orden de llegada. También es importante indicar que el marcador de libro nunca podrá sobrepasar al marcador de lupa.
+
+Fichas de Investigación
+Una de las principales bonificaciones que se obtienen en el track de investigación son las Losetas de Ayudante. Cada jugador podrá tener hasta dos de estos ayudantes que, por norma general, proporcionan acciones gratuitas de un solo uso durante la ronda (reactivándose al final de la misma). Cada loseta tiene dos niveles, uno básico (de fondo gris) y otro mejorado (de fondo dorado). En la cara básica se muestra en una segunda línea el efecto de la parte mejorada. Cada vez que un jugador reciba o mejore un ayudante este estará dispuesto a ofrecer su beneficio.
+
+Losetas de Ayudante
+Adicionalmente, ciertas casillas mostrarán Fichas de Recompensa, las cuales serán reclamadas por el jugador que primero alcance la casilla correspondiente, disfrutando del efecto de forma inmediata y descartándola.
+
+Fichas de Recompensa
+Si un jugador ha alcanzado el templo con su lupa tendrá opción a explorarlo, obteniendo valiosas Losetas de Templo con un determinado valor en puntos de victoria. Estas tablillas tendrán un coste en recursos dependiente del nivel de las mismas. Así, las de primer nivel tendrán tres posibles costes, las de segundo nivel tendrán como coste la suma de los costes de las tablillas del nivel anterior que las soportan y las tablillas del tercer nivel tendrán como coste los tres costes de las tablillas de primer nivel.
+
+Losetas de Templo
+Otro de los aspectos importantes del juego es la construcción de mazos. Para ello tenemos tres tipos de cartas, las cuales tienen en común los símbolos de transporte que aparecen en la esquina superior izquierda. Así encontramos las botas, los coches, los barcos y los aviones. Un avión equivaldrá a cualquier método de transporte, mientras que los barcos y los coches también valdrán como bota. Sin embargo, los barcos no podrán ser utilizado como coches y viceversa.
+
+El primer tipo de carta son las Cartas Iniciales. Cada jugador dispone de cuatro cartas que proporcionan acciones gratuitas si no son utilizadas como transporte.
+
+Cartas Iniciales
+El segundo tipo son las Cartas de Miedo, que se obtienen si un jugador no logra derrotar a un guardián y el peón de explorador que descubrió el yacimiento permanece en el espacio junto al guardián al final de la ronda. También es posible obtener cartas de miedo mediante otras vías. Cada carta de miedo restará un punto al final de la partida.
+
+Cartas de Miedo
+El tercer tipo son los Objetos. Estos tendrán un coste en monedas en su zona inferior izquierda y un valor en puntos de victoria en su esquina inferior derecha. Cada carta de objeto muestra un efecto que se podrá activar durante la ronda si la carta está en la mano del jugador. Cuando un jugador compra una carta de objeto esta es colocada directamente en la parte inferior del mazo del jugador (no se baraja).
+
+Objetos
+Y el cuarto tipo son los Artefactos. Estos tendrán un coste en brújulas en su zona inferior izquierda y un valor en puntos de victoria en su esquina inferior derecha. Cada artefacto muestra un efecto que se activará inmediatamente al comprar la carta, y también podrá activarse si la carta está en la mano del jugador, pero asumiendo un coste adicional de una tablilla. Al final de la ronda en la que una carta de artefacto es obtenida será bajada con el resto de cartas de la zona de juego y colocadas en el fondo del mazo.
+
+Artefactos
+Finalmente cada jugador dispondrá de un Tablero de Campamento en el que colocar su mazo de robo en la zona izquierda, los ayudantes que obtenga en la zona derecha, un espacio de reserva para los recursos en la zona central y cuatro espacios para ídolos si se utilizan como acción gratuita para recibir alguno de los beneficios indicados en el tablero. Cada uno de estos espacios muestra un valor en puntos de victoria que se perderá si es cubierto por una ficha de ídolo.
+
+Preparación de la Partida
+Se despliega el tablero central por la cara deseada.
+Se coloca el tablero de reserva en la banda inferior.
+Se colocan los recursos en los espacios correspondientes.
+Se prepara el mazo de cartas de miedo en la zona central de la banda superior.
+Se baraja el mazo de cartas de objeto y se coloca en el espacio derecho del suministro.
+Se baraja el mazo de cartas de artefacto y se coloca en el espacio izquierdo del suministro.
+Se coloca la vara lunar en el espacio de valor cinco.
+Se revela la primera carta de artefacto colocándolo en el espacio a la izquierda de la vara lunar.
+Se revelan las cuatro primeras cartas de objeto y se colocan en los cuatro espacios a la derecha de la vara lunar.
+Se colocan tantas tablillas en cada espacio de reserva del templo como jugadores haya en la partida.
+Se mezclan las fichas de recompensa y se coloca una en cada espacio según el número de jugadores. El resto de fichas se devuelven a la caja.
+Se mezclan las losetas de ayudantes y se forman tres pilas que se colocan en los espacios en la zona inferior del track de investigación. Si estamos jugando con el lado del templo de la serpiente se deben colocar tantos ayudantes como jugadores haya en el espacio intermedio del track.
+Se mezclan las losetas de yacimientos de nivel I y nivel II y se forman dos pilas.
+También se mezclan las losetas de guardianes y se forma una pila bocabajo con ellas.
+Se mezclan las fichas de ídolo y se coloca una bocarriba en cada espacio de yacimiento. Adicionalmente, se coloca una bocabajo en cada espacio de yacimiento de nivel II.
+En partidas de menos de 4 jugadores deben cubrirse espacios de 2 botas en los yacimientos iniciales. Para 2 jugadores se tapan todos con las fichas de bloqueo, mientras que para 3 jugadores se revelan 3 fichas de bloqueo y se colocan en los yacimientos correspondientes.
+Cada jugador escoge un color y recibe un tablero de campamento, dos exploradores, 4 cartas iniciales y 2 cartas de miedo (que mezcla y coloca formando un mazo en el espacio de reserva) y dos marcadores de investigación (lupa y cuaderno) que coloca bajo el track de investigación.
+Se escoge aleatoriamente al jugador inicial y se le entrega el marcador correspondiente.
+En función de quien sea el jugador inicial, los jugadores reciben como recursos iniciales: 2 monedas, 1 moneda y 1 brújula, 2 monedas y 1 brújula, 1 moneda y 2 brújulas.
+
+Desarrollo de la Partida
+Una partida de Las Ruinas Perdidas de Arnak se desarrolla a lo largo de cinco rondas. En cada ronda, comenzando por el jugador inicial y continuando en el sentido de las agujas del reloj, los jugadores alternarán turnos.
+
+En cada turno, el jugador activo escogerá una de las acciones disponibles:
+
+Excavar en un Yacimiento. El jugador escoge un yacimiento con al menos un espacio libre para colocar uno de sus exploradores. Para ello deberá asumir el coste de desplazamiento jugando cartas o activando elementos (ayudantes y/o guardianes derrotados) que proporcionen el transporte necesario. Tras esto, el jugador activa el efecto del yacimiento.
+Descubrir un Nuevo Yacimiento. El jugador devuelve a la reserva 3 fichas de brújula para descubrir un yacimiento de nivel I o 6 fichas de brújula para descubrir un yacimiento de nivel II. El jugador escoge un espacio para nuevo yacimiento que esté libre y asume el coste de desplazamiento (como en la acción anterior) y obtiene la o las fichas de ídolo presentes en el espacio (recibiendo como bonificación cualquier efecto de fichas de ídolo bocarriba, volteando la ficha posteriormente). Se roba la loseta de yacimiento de su pila correspondiente y se coloca en el espacio de acción, activando sus efectos. Finalmente, se revela la siguiente loseta de guardián y se coloca encima de la loseta de yacimiento recién descubierta.
+Derrotar a un Guardian. Si un peón de explorador del jugador se encuentra en un yacimiento con un guardián, el jugador devuelve a la reserva los elementos indicados en la loseta del guardián y reclama dicha loseta para él, colocándola bocarriba en su zona de juego y pudiendo ejecutar el beneficio que proporciona en el momento que crea oportuno.
+Comprar una Carta. Existen dos opciones:
+Comprar un Objeto. El jugador entrega a la reserva la cantidad de monedas indicada en la misma y coloca la carta en el fondo de su mazo. Tras esto, las cartas se desplazan hacia la izquierda y se revela una nueva carta de objeto en el espacio más a la derecha.
+Comprar un Artefacto. El jugador entrega a la reserva la cantidad de brújulas indicada en la carta y la coloca en su zona de juego, activando el efecto indicado en la misma.
+Jugar una Carta de Acción. El jugador coloca una carta de su mano con una acción y recibe los beneficios indicados en ella. Si es una carta de artefacto, deberá devolver a la reserva una ficha de tablilla para poder ejecutar la acción.
+Investigar. El jugador avanza uno de sus marcadores de investigación (lupa o cuaderno) un nivel hacia arriba devolviendo a la reserva los elementos indicados en uno de los peaje entre niveles (se debe continuar el camino). Si en la casilla alcanzada hay una ficha de recompensa, el jugador la recibe inmediatamente y se descarta. También se obtiene la recompensa indicada en el nivel según el tipo de ficha avanzada. Si un jugador ha alcanzado el templo (ha llegado a la cima con la lupa) podrá devolver a la reserva recursos para obtener tablillas. Las tablillas de nivel I requieren solo los recursos indicados bajo ellas, las de nivel II requieren pagar los recursos indicados bajo los espacios de nivel I que la soportan y las losetas de nivel III requieren pagar todos los recursos indicados bajo los espacios de nivel I.
+Pasar. El jugador dejará de disfrutar de turnos. En este momento podrá descartar cualquier número de cartas sin jugar en su mano o mantenerlas. El jugador obtiene una carta de miedo (que se coloca en la zona de juego) por cada yacimiento con guardián sin derrotar en el que el jugador tenga un peón de explorador. Tras esto, mezcla las cartas de su zona de juego y las coloca en el fondo de su mazo.
+Adicionalmente, en cualquier momento de su turno, el jugador puede ejecutar acciones gratuitas (con el símbolo del rayo), esto es, jugar cartas o activar ayudantes (girándolos) para recibir los beneficios indicados. También será posible contratar un piloto devolviendo dos monedas a la reserva.
+
+Tras esto, el turno pasa al jugador de la izquierda.
+
+Detalle Explorador
+La ronda finaliza cuando todos los jugadores han pasado, preparándose la siguiente ronda (salvo que estemos en la quinta ronda). Se procede de la siguiente forma:
+
+Se descartan la carta de objeto y la carta de artefacto adyacentes a la vara lunar.
+Se desplaza la vara lunar un espacio hacia la derecha.
+Se desplazan las cartas de artefacto un espacio hacia la derecha.
+Se revela una nueva carta de artefacto en el espacio libre de la izquierda.
+Cada jugador recupera sus peones de explorador.
+Se pasa el marcador de jugador inicial al jugador de la izquierda.
+Se reactivan los ayudantes agotados.
+Cada jugador roba 5 cartas de su mazo para conformar su mano.
+Tras esto, comenzaría una nueva ronda.
+
+Fin de la Partida
+La partida finaliza al término de la quinta ronda, procediéndose a la evaluación final en la que cada jugador anota los siguientes puntos:
+
+Los puntos proporcionados por el nivel alcanzado por cada ficha en el Track de Investigación.
+Los puntos de las losetas de templo obtenidas.
+3 Puntos por cada ficha de ídolo.
+Los puntos visibles en los espacios libres para ídolos del tablero personal.
+5 Puntos por cada Guardián derrotado.
+Los puntos proporcionados por cada carta de objeto y artefacto obtenida por el jugador durante la partida.
+Se resta 1 punto por cada carta de miedo presente en el mazo del jugador.
+El jugador con más puntos será el vencedor. En caso de empate, el ganador será el que alcanzase en primer lugar el templo. Si ningún jugador de entre los empatados llegó al templo, el ganador será aquel que haya acumulado más puntos en el track de investigación (sumando ambas fichas). Si el empate persiste, los jugadores comparten la victoria.
+
+Variantes
+Modo en Solitario: el jugador se enfrenta a un bot que utiliza el reverso de un tablero de campamento de otro color. Las acciones del rival se resolverán mediante una pila de losetas compuestas por cinco acciones básicas y cinco acciones a escoger entre dos conjuntos (verde o rojo). El bot no obtendrá elementos, simplemente ocupará espacios de acción y progresará en el track de investigación anulando fichas de recompensa y compitiendo por llegar primero al templo.
