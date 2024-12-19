@@ -28,18 +28,7 @@
 
 - **`.gitignore`**: Archivo que especifica qué archivos y directorios deben ser ignorados por Git.
 
-### Requisitos
-
-Este proyecto requiere las siguientes dependencias de Python:
-
-- **Instalación de dependencias**:
-    Para instalar las dependencias necesarias, ejecuta el siguiente comando:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Generar el informe**: Una vez completados los análisis, puedes generar el informe en formato PDF que resume los resultados obtenidos.
+rar el informe**: Una vez completados los análisis, puedes generar el informe en formato PDF que resume los resultados obtenidos.
 
 ### Contribuciones
 
