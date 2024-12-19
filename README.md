@@ -1,7 +1,10 @@
 # Procesamiento del Lenguaje Natural
 ## TUIA - FCEIA
+
 **Alumno:** Giuliano Crenna (C 7438/1)
+
 **Docentes:** Juan Pablo Manson - Alan Geary
+
 **Fecha de Entrega:** 18/12/2024
 ---
 
